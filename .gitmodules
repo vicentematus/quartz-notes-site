@@ -1,3 +1,4 @@
 [submodule "content"]
+  # https://stackoverflow.com/questions/72786625/deploying-repos-with-submodules-using-cloudflare-pages
 	path = content
-	url = https://github.com/vicentematus/notes-obsidian.git
+	url = https://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@github.com/vicentematus/notes-obsidian.git
