@@ -9,8 +9,8 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "notas.vicente.cl",
+    locale: "es-ES",
+    baseUrl: "notas.vicentematus.cl",
     ignorePatterns: ["private", "templates", ".obsidian", "pensamientos"],
     defaultDateType: "created",
     theme: {
