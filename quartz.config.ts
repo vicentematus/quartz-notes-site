@@ -7,9 +7,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "posthog",
-      host: "https://us.i.posthog.com",
-      apiKey: process.env.POSTHOG_API_KEY as string,
+      provider: "google",
+      tagId: "G-EV69W38LXZ",
     },
     locale: "es-ES",
     baseUrl: "notas.vicentematus.cl",

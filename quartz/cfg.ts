@@ -19,11 +19,7 @@ export type Analytics =
       websiteId: string
       host?: string
     }
-  | {
-      provider: "posthog"
-      apiKey: string
-      host?: string
-    }
+
 
 export interface GlobalConfiguration {
   pageTitle: string
